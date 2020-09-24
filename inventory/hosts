@@ -1,0 +1,9 @@
+[webservers]
+34.101.179.210
+34.101.232.0
+34.101.153.233
+34.101.182.146
+
+[webservers:vars]
+ansible_user=vielsky.vv
+ansible_password=root
